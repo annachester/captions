@@ -1,7 +1,7 @@
 [
  {
   "input": "In the last chapter, you and I started to step through the internal workings of a transformer.",
-  "translatedText": "Im letzten Kapitel haben du und ich damit begonnen, das Innenleben eines Transformators zu erkunden.",
+  "translatedText": "Im letzten Kapitel haben du und ich damit begonnen, das Innenleben eines Transformers zu erkunden.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 0.0,
@@ -17,7 +17,7 @@
  },
  {
   "input": "It first hit the scene in a now-famous 2017 paper called Attention is All You Need, and in this chapter you and I will dig into what this attention mechanism is, visualizing how it processes data.",
-  "translatedText": "In diesem Kapitel werden wir uns damit beschäftigen, was dieser Aufmerksamkeitsmechanismus ist, und zeigen, wie er Daten verarbeitet.",
+  "translatedText": "In diesem Kapitel werden wir uns damit beschäftigen, was dieser Aufmerksamkeitsmechanismus ist, und ich werde dir zeigen, wie er Daten verarbeitet.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 10.98,
@@ -25,7 +25,7 @@
  },
  {
   "input": "As a quick recap, here's the important context I want you to have in mind.",
-  "translatedText": "Um es kurz zusammenzufassen, hier der wichtige Kontext, den du im Hinterkopf behalten solltest.",
+  "translatedText": "Als kurze Zusammenzufassung, hier der wichtige Kontext, den du im Hinterkopf behalten solltest.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 26.14,
@@ -33,7 +33,7 @@
  },
  {
   "input": "The goal of the model that you and I are studying is to take in a piece of text and predict what word comes next.",
-  "translatedText": "Das Ziel des Modells, das du und ich studieren, ist es, einen Text zu lesen und vorherzusagen, welches Wort als nächstes kommt.",
+  "translatedText": "Das Ziel des Modells ist es, einen Text zu lesen und vorherzusagen, welches Wort als nächstes kommt.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 30.0,
@@ -41,7 +41,7 @@
  },
  {
   "input": "The input text is broken up into little pieces that we call tokens, and these are very often words or pieces of words, but just to make the examples in this video easier for you and me to think about, let's simplify by pretending that tokens are always just words.",
-  "translatedText": "Der Eingabetext wird in kleine Teile zerlegt, die wir Token nennen, und das sind sehr oft Wörter oder Wortteile, aber damit die Beispiele in diesem Video für dich und mich leichter zu verstehen sind, tun wir einfach so, als ob Token immer nur Wörter wären.",
+  "translatedText": "Der Eingabetext wird in kleine Teile zerlegt, die wir Token nennen, und das sind sehr oft Wörter oder Wortteile, aber damit die Beispiele in diesem Video für dich und mich leichter zu verstehen sind, tun wir einfach so, als ob Tokens immer nur Wörter wären.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 36.86,
@@ -49,7 +49,7 @@
  },
  {
   "input": "The first step in a transformer is to associate each token with a high-dimensional vector, what we call its embedding.",
-  "translatedText": "Der erste Schritt in einem Transformator besteht darin, jedes Token mit einem hochdimensionalen Vektor zu verknüpfen, den wir seine Einbettung nennen.",
+  "translatedText": "Der erste Schritt in einem Transformer besteht darin, jedes Token mit einem hochdimensionalen Vektor zu verknüpfen, den wir seine Einbettung nennen.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 51.48,
@@ -57,7 +57,7 @@
  },
  {
   "input": "The most important idea I want you to have in mind is how directions in this high-dimensional space of all possible embeddings can correspond with semantic meaning.",
-  "translatedText": "Der wichtigste Gedanke, den ich dir mit auf den Weg geben möchte, ist, wie die Richtungen in diesem hochdimensionalen Raum aller möglichen Einbettungen mit der semantischen Bedeutung korrespondieren können.",
+  "translatedText": "Die wichtigste Idee, die ich dir mit auf den Weg geben möchte, ist, wie die Richtungen in diesem hochdimensionalen Raum aller möglichen Einbettungen mit der semantischen Bedeutung korrespondieren können.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 57.7,
@@ -89,7 +89,7 @@
  },
  {
   "input": "I should say up front that a lot of people find the attention mechanism, this key piece in a transformer, very confusing, so don't worry if it takes some time for things to sink in.",
-  "translatedText": "Ich sollte gleich zu Beginn sagen, dass viele Leute den Aufmerksamkeitsmechanismus, dieses Schlüsselteil eines Transformators, sehr verwirrend finden.",
+  "translatedText": "Ich sollte gleich zu Beginn sagen, dass viele Leute den Aufmerksamkeitsmechanismus, den Schlüssel eines Transformers, sehr verwirrend finden.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 100.14,
